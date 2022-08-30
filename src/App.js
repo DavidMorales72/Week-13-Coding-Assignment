@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+// MAKE SURE TO IMPORT REACT ON THE App.js
+import React from 'react';
 
 function App() {
   return (
